@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17D102" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Materiale" representedClassName="Materiale" syncable="YES" codeGenerationType="class">
+        <attribute name="ble" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="immagine" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="modello" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="n_carrello" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nome" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="provenienza" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantita" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stato" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Materiale" positionX="-54" positionY="-9" width="128" height="180"/>
+    </elements>
+</model>
