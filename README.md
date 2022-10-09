@@ -9,7 +9,7 @@
   <br>
 </div>
 
-The project aims to simplify the management of the various trolleys or containers present in a warehouse, a company or a factory and keep track of various data; these are then displayed on a downloadable application on a smartphone connected to the prototype. It works with BLE and an iOS app developed by me. 
+The project aims to simplify the management of the various trolleys or containers located in a warehouse, a company or a factory and keep track of various data; these are then displayed on an application connected to the prototype. It works with BLE and an iOS app developed by me. 
 
 Built with XCode for iOS platforms.
 
