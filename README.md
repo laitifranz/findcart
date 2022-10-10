@@ -17,10 +17,10 @@ Built with XCode for iOS platforms.
 
 
 ## Demo
-See the [demo](https://youtu.be/3IQePwn-8O8) on YouTube (only italian texts)
+See the [demo](https://youtu.be/3IQePwn-8O8) on YouTube (only italian)
 
 ## Award
-Second place winner for North and Center Italy of the competition "Build the future with STM32 Open Development Environment" organized by STMicroeletronics in 2018 (team of 2 students).
+Second place at the competition "Build the future with STM32 Open Development Environment" for North and Center Italy organized by STMicroeletronics in 2018 (team of 2 students).
 
 ## Disclaimer
 This project is only for educational purposes.
